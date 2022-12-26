@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">Experience as Full-Stack Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisrunnerr&label=Profile%20views&color=0e75b6&style=flat" alt="chrisrunnerr" /> </p>
 
 - 🔭 I’m currently working on [leetcode](https://leetcode.com/ChristopheRunR/)
