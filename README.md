@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif">
+<img align="center" alt="Coding" width="400" length="400" src="https://i.pinimg.com/originals/e5/9a/b1/e59ab161ec469cf9c08ea6908652926c.gif">
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">Experience as Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif">
