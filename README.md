@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">Experience as Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif">
