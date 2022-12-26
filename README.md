@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S9ML-jfXHxdOh7SILvfu14zcFJBhphrv/view?usp=sharing](https://drive.google.com/file/d/1S9ML-jfXHxdOh7SILvfu14zcFJBhphrv/view?usp=sharing)
 
-- ⚡ Fun fact **Ran Division 1 cross-country & track @ Arizona State University. Go Devils!**
+- ⚡ Fun fact **I Run Division 1 cross-country & track @ Arizona State University. Go Devils!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
