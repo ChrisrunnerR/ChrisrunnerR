@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **chrisrunner542@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LFf9mNWk1Qt4feOCU1aN08tRHqKxOj8J/view?usp=share_link](https://drive.google.com/file/d/1S9ML-jfXHxdOh7SILvfu14zcFJBhphrv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LFf9mNWk1Qt4feOCU1aN08tRHqKxOj8J/view?usp=share_link](https://drive.google.com/file/d/1LFf9mNWk1Qt4feOCU1aN08tRHqKxOj8J/view?usp=share_link)
 
 - ⚡ Fun fact **I Run Division 1 cross-country & track @ Arizona State University. Go Devils!**
 
