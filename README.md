@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **dynamic progamming**
 
-- 👯 I’m looking for **summer 2023 software-intern position**
+- 👯 I’m looking for **Full Time SWE position**
 
-- 🤝 I'm planning on **working on masters degree**
+- 🤝 I'm planning on **Working on my Masters degree**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChrisrunnerR](https://github.com/ChrisrunnerR)
 
@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **c++**
 
-- 📫 How to reach me **chrisrunner542@gmail.com**
+- 📫 How to reach me **christopherrunner542@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LFf9mNWk1Qt4feOCU1aN08tRHqKxOj8J/view?usp=share_link](https://drive.google.com/file/d/1LFf9mNWk1Qt4feOCU1aN08tRHqKxOj8J/view?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link](https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link)
 
 - ⚡ Fun fact **I Run Division 1 cross-country & track @ Arizona State University. Go Devils!**
 
