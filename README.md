@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **christopherrunner542@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=sharing)
 
 - ⚡ Fun fact **I Run Division 1 cross-country & track @ Arizona State University. Go Devils!**
 
