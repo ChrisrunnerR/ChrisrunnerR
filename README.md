@@ -2,7 +2,8 @@
 <h3 align="center">Experience as Full-Stack Developer</h3>
 <!-- <img align="center" alt="Coding" width="1600" length="480" src="https://i.pinimg.com/originals/e5/9a/b1/e59ab161ec469cf9c08ea6908652926c.gif"> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif"> -->
-![IMG_2197](https://github.com/ChrisrunnerR/ChrisrunnerR/assets/72762131/a9afe352-a8ec-44e2-8bd1-3c04499160ed)
+<img src="https://github.com/ChrisrunnerR/ChrisrunnerR/assets/72762131/a9afe352-a8ec-44e2-8bd1-3c04499160ed" alt="IMG_2197">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisrunnerr&label=Profile%20views&color=0e75b6&style=flat" alt="chrisrunnerr" /> </p>
