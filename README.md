@@ -2,7 +2,8 @@
 <h3 align="center">Experience as Full-Stack Developer</h3>
 <!-- <img align="center" alt="Coding" width="1600" length="480" src="https://i.pinimg.com/originals/e5/9a/b1/e59ab161ec469cf9c08ea6908652926c.gif"> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://img3.pillowfort.social/posts/583e06ca981f7a3904fd.gif"> -->
-<img src="https://github.com/ChrisrunnerR/ChrisrunnerR/assets/72762131/d691aaad-9e62-430f-9258-3438c84ab665" alt="IMG_2197">
+<img src="https://github.com/ChrisrunnerR/ChrisrunnerR/assets/72762131/d691aaad-9e62-430f-9258-3438c84ab665" alt="IMG_2197" width="1600" height="480" align="center">
+
 
 
 
