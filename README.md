@@ -16,15 +16,15 @@
 
 - 🤝 I'm planning on **Working on my Masters degree**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChrisrunnerR](https://github.com/ChrisrunnerR)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ChrisrunnerR)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/christopher-stone-9b83a61aa/](https://www.linkedin.com/in/christopher-stone-9b83a61aa/)
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **Surfing**
 
 - 📫 How to reach me **christopherrunner542@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link](https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/15zLgPZA-bMzZy6yBeDWzLYPuIkqSIWk_xi9R3rZGd38/edit?usp=share_link)
 
 - ⚡ Fun fact **I Run Division 1 cross-country & track @ Arizona State University. Go Devils!**
 
