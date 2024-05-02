@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisrunnerr&label=Profile%20views&color=0e75b6&style=flat" alt="chrisrunnerr" /> </p>
 
-- 🔭 I’m currently working on [leetcode](https://leetcode.com/ChristopheRunR/)
+- 🔭 I’m currently working on [Flutter]()
 
 - 🌱 I’m currently learning **dynamic progamming**
 
