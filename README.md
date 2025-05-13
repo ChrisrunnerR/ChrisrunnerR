@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on [Flutter](https://github.com/ChrisrunnerR/Instagram)
 
-- 🌱 I’m currently learning **dynamic progamming**
+- 🌱 I’m currently learning **swiftUI**
 
-- 👯 I’m looking for **Full Time SWE position**
+- 👯 I’m looking for ****
 
-- 🤝 I'm planning on **Working on my Masters degree**
+- 🤝 I'm working on **Masters degree**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ChrisrunnerR)
 
